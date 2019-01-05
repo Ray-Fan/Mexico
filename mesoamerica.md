@@ -17,8 +17,9 @@ next centuries, Mesoamerican indigenous cultures were gradually subjected to Spa
 1. Paleo-Indian
 > The prefix "paleo-" comes from the Greek adjective palaios (παλαιός), meaning "old" or "ancient".  
 
-This is a classification term given by scholars to the first peoples who entered, and subsequently inhabited, the Americas during the final 
-glacial episodes of the late Pleistocene period. 
+* This is a classification term given by scholars to the first peoples who entered, and subsequently inhabited, the Americas during the final glacial episodes of the late Pleistocene period. 
+
+* Human during this period lived on hunting big animals and collecting fruits.
 
 2. Archaic (8000 – 2000 BC)
 > This word, originating from Greek, means "from the beginning, antiquated, ancient, old".
@@ -41,7 +42,7 @@ across the Isthmus of Tehuantepec.
 
 4. Classic (200 – 900 AD)
 
-It is marked by the *rise and dominance of several polities*.
+* It is marked by the *rise and dominance of several polities*.
 
 * __Early classic (200–600 AD)__ Of paramount importance are `Teotihuacán` in __central Mexico__ and `Tikal` in __Guatemala (Maya area)__. 
 `Monte Alban` in __Oaxaca__ is another Classic-period polity that expanded and flourished during this period
@@ -50,7 +51,7 @@ It is marked by the *rise and dominance of several polities*.
 regional polities in the __Maya area__. Main results: the decrease in `Tikal`’s socio-political and economic power and the rise of other
 sites.
 
-* __Terminal classic (800–900/1000 AD) Generally applied to the __Maya area__. It generally correlates with the rise to prominence 
+* __Terminal classic (800–900/1000 AD)__ Generally applied to the __Maya area__. It generally correlates with the rise to prominence 
 of Puuc settlements in the northern Maya lowlands. `Chichén Itzá` is thought to rise to its prominence in this period. 
 Strong connection between __central Mexico__ and __Maya area__ were developed.
 > The word "puuc" is derived from the Maya term for "hill".
