@@ -62,6 +62,9 @@ Strong connection between __central Mexico__ and __Maya area__ were developed.
 
       `Chichén Itzá` -> `Mayapán` -> competing large cities.
 
-* __central Mexico__: `Toltec`(at Hidalgo),  `Cholula`(contemporaneous with `Teotihuacan` but continued to Postclassic) -> 
-`Aztez empire` (which conquered this whole region including Oaxaca)
+* __central Mexico__: 
+
+      `Toltec`, `Cholula` -> `Aztez empire`
+ > `Toltec` is at Hidalgo. `Cholula` is another city which was contemporaneous with `Teotihuacan` but continued to Postclassic. Aztec
+conquered this whole region including Oaxaca.
 
