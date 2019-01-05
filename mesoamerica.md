@@ -58,8 +58,9 @@ Strong connection between __central Mexico__ and __Maya area__ were developed.
 
 5. Postclassic (900 – 1519 AD)
 
-* __Maya area__: characterized by the cyclical crystallization and fragmentation of various polities. `Chichén Itzá` -> `Mayapán` -> 
-competing large cities.
+* __Maya area__: characterized by the cyclical crystallization and fragmentation of various polities. 
+
+      `Chichén Itzá` -> `Mayapán` -> competing large cities.
 
 * __central Mexico__: `Toltec`(at Hidalgo),  `Cholula`(contemporaneous with `Teotihuacan` but continued to Postclassic) -> 
 `Aztez empire` (which conquered this whole region including Oaxaca)
