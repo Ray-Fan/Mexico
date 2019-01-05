@@ -10,7 +10,7 @@ Nicaragua, and northern Costa Rica.
 * as a `history` concept, began as early as 7000 BC and ended with the Spanish conquest in the 16th century. Over the 
 next centuries, Mesoamerican indigenous cultures were gradually subjected to Spanish colonial rule.
 
-* as a `culture` concept, includes
+* as a `culture` concept, includes Olmec, Teotihuacan, Maya, Aztec and so on.
 
 ![alt text](https://en.wikipedia.org/wiki/Mesoamerica#/media/Mesoamerica_english.PNG "Mesoamerica and its cultural areas")
 ## Chronology
