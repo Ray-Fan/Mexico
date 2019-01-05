@@ -12,7 +12,8 @@ next centuries, Mesoamerican indigenous cultures were gradually subjected to Spa
 
 * as a `culture` concept, includes Olmec, Teotihuacan, Maya, Aztec and so on.
 
-![alt text](https://en.wikipedia.org/wiki/Mesoamerica#/media/Mesoamerica_english.PNG "Mesoamerica and its cultural areas")
+![alt text](https://github.com/Ray-Fan/Mexico/Mesoamerica_english.PNG)
+
 ## Chronology
 1. Paleo-Indian
 > The prefix "paleo-" comes from the Greek adjective palaios (παλαιός), meaning "old" or "ancient".  
