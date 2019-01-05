@@ -12,7 +12,9 @@ next centuries, Mesoamerican indigenous cultures were gradually subjected to Spa
 
 * as a `culture` concept, includes Olmec, Teotihuacan, Maya, Aztec and so on.
 
-![alt text](https://github.com/Ray-Fan/Mexico/Mesoamerica_english.PNG)
+![Mesoamerica](https://github.com/Ray-Fan/Mexico/blob/master/Mesoamerica_english.png)
+
+___
 
 ## Chronology
 1. Paleo-Indian
@@ -67,5 +69,5 @@ Strong connection between __central Mexico__ and __Maya area__ were developed.
 
       `Toltec`, `Cholula` -> `Aztez empire`
  > `Toltec` is at Hidalgo. `Cholula` is another city which was contemporaneous with `Teotihuacan` but continued to Postclassic. Aztec
-conquered this whole region including Oaxaca.
+conquered this whole region including the Gulf Coast, Mexico’s southern Pacific Coast, Oaxaca and Guerrero.
 
